@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/s21162-pj/TAU6.3/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/s21162-pj/TAU6.3/actions/workflows/pages/pages-build-deployment)
+
